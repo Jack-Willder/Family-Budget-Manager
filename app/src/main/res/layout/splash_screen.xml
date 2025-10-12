@@ -18,7 +18,7 @@
         android:scaleType="fitXY" />
     <TextView
         android:id="@+id/tv_app_name"
-        android:textColor="#FFFFFF"
+        android:textColor="#E4DEDE"
         android:textSize="30sp"
         android:textStyle="bold"
         android:layout_height="wrap_content"

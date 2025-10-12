@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
                 super.onCreate(savedInstanceState);
                 setContentView(R.layout.splashscreen);
 
-                //Toast message
                 Toast.makeText(getApplicationContext(),"Welcome to ViSuWare", Toast.LENGTH_LONG).show();
         }
 }
