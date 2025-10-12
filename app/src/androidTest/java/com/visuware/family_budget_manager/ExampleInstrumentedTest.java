@@ -1,4 +1,4 @@
-package com.visu.family_budget_manager;
+package com.visuware.family_budget_manager;
 
 import android.content.Context;
 
