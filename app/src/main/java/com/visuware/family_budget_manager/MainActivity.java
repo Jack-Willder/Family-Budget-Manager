@@ -2,7 +2,6 @@ package com.visuware.family_budget_manager;
 
 import android.os.Bundle;
 import android.widget.Toast;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
@@ -12,8 +11,7 @@ public class MainActivity extends AppCompatActivity {
                 super.onCreate(savedInstanceState);
                 setContentView(R.layout.activity_main);
 
-
                 //Toast message
-                Toast.makeText(getApplicationContext(),"Welcome to Visuware", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(),"Welcome to ViSuWare", Toast.LENGTH_LONG).show();
         }
 }
