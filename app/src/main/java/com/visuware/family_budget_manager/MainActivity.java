@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         protected void onCreate(Bundle savedInstanceState) {
                 super.onCreate(savedInstanceState);
-                setContentView(R.layout.activity_main);
+                setContentView(R.layout.splashscreen);
 
                 //Toast message
                 Toast.makeText(getApplicationContext(),"Welcome to ViSuWare", Toast.LENGTH_LONG).show();
