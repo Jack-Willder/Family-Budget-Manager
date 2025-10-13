@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Budgetinator</string>
     <string name="app_title">BUDGETINATOR</string>
+    <string name="who_spent">WHO SPENT ?</string>
 </resources>
