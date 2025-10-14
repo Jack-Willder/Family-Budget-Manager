@@ -6,4 +6,5 @@
     <color name="ui_dark_card_background">#404040</color>
     <color name="ui_background">#FFFFFF</color>
     <color name="ui_orange">#FF4000</color>
+    <color name="avatar_sample_background">#3DDC84</color>
 </resources>
