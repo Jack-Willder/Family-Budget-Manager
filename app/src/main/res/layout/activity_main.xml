@@ -41,11 +41,6 @@
                 android:textSize="30sp"
                 android:textStyle="bold" />
 
-            <ScrollView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:scrollbars="none">
-
 
                 <androidx.recyclerview.widget.RecyclerView
                     android:id="@+id/notes_recycler_view"
@@ -59,9 +54,21 @@
                     android:overScrollMode="never"
                     app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
-
-            </ScrollView>
         </LinearLayout>
+
     </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floating_action_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="26dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:importantForAccessibility="no"
+        app:backgroundTint="@color/ui_orange"
+        app:srcCompat="@drawable/ic_add" />
 </LinearLayout>
 
