@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Budgetinator</string>
-    <string name="app_title">BUDGETINATOR</string>
-    <string name="who_spent">WHO SPENT ?</string>
+    <string name="app_title">Budgetinator</string>
+    <string name="who_spent">Who spent?</string>
 </resources>
